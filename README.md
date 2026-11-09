@@ -8,12 +8,19 @@
 5. Ubunto 26.04 (OS Linux)
 6. Hadoop (Almacenamiento Distribuido)
 7. Hive (SQL)
-8. Sapark (Pyspark) 
-9. Databricks (Procesamiento en Nube)
-10.  Jenkins (CI/CD)
-11. Apache Airflow (Orquestacion)
+8. Sapark 
+9. Pyspark (Lenguaje Spark + Python) 
+10. Databricks (Procesamiento en Nube)
+11.  Jenkins (CI/CD)
+12. Apache Airflow (Orquestacion)
+13. SSH (Conexion remota)
 
 ## Metodologias
 
 -  arquitectura Medallon
 -  Dama - Book
+
+
+
+© 2026 Jhonatan Efrain Valdivia Mosqueira
+Este trabajo esta Bajo Licencia [Creative Commons Attribution 4.0 International](LICENSE) 
