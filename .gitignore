@@ -1,0 +1,17 @@
+# archivo de credenciales
+.env
+
+# archivos de entornos virtuales
+
+venv/
+yenv/
+
+#archivos temporales
+_pycache_/
+
+#archivos con extensiones de python
+*.pyc
+
+# archivos carpertas
+.vs/
+
